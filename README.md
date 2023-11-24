@@ -1,4 +1,4 @@
-# Demo
+# Temporal Contracts
 Injective Hackathon Repository 
 
 
